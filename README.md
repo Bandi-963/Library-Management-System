@@ -22,4 +22,6 @@ Add a Book
 View Available Books
 Issue a Book
 Return a Book
-Exit Enter your choice: 
+Exit 
+
+Enter your choice: 
