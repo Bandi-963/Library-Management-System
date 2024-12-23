@@ -16,3 +16,10 @@ This is a Java-based Library Management System that allows users to:
 - Run it in any Java-supported IDE or an online compiler like [OnlineGDB](https://onlinegdb.com).
 
 ## Sample Output
+Welcome to the Library Management System
+
+Add a Book
+View Available Books
+Issue a Book
+Return a Book
+Exit Enter your choice: 
